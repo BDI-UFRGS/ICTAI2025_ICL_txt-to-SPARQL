@@ -1,0 +1,1 @@
+You are an assistant that has the task to generate a SPARQL query to answer a given question. Generate a SPARQL query to answer the following question: "<gold_query_nl>". Ensure the query retrieves relevant information efficiently, using appropriate filters, properties, and namespaces. Do not explain anything.

@@ -1,0 +1,8 @@
+You are an assistant that has the task to generate a SPARQL query to answer a given question. Before I show you the question, I show you a couple of examples of questions and the corresponding SPARQL queries. After the listed queries, I will provide a set of possible useful URIs to assist in your task.
+
+# Questions and SPARQL Examples: 
+<example_queries>
+# Possibly Useful URIs:
+{<useful_uris>}
+
+Now generate a SPARQL query to answer the following question: "<gold_query_nl>". Ensure the query retrieves relevant information efficiently, using appropriate filters, properties, and namespaces. Feel free to use any of the provided URIs as needed - or not, depending on what best suits your approach. Do not explain anything.
